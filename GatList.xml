@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GatDetails>
+  <GatCode Code="1">
+    <GatName>कापशी</GatName>
+  </GatCode>
+  <GatCode Code="2">
+    <GatName>वाखरी</GatName>
+  </GatCode>
+  <GatCode Code="3">
+    <GatName>काळज</GatName>
+  </GatCode>
+  <GatCode Code="4">
+    <GatName>वाजेगांव</GatName>
+  </GatCode>
+  <GatCode Code="5">
+    <GatName>पवारवाडी</GatName>
+  </GatCode>
+  <GatCode Code="6">
+    <GatName>माण (दहिवडी)</GatName>
+  </GatCode>
+  <GatCode Code="7">
+    <GatName>पुसेगांव</GatName>
+  </GatCode>
+  <GatCode Code="8">
+    <GatName>कोरेगांव</GatName>
+  </GatCode>
+  <GatCode Code="9">
+    <GatName>सातारा</GatName>
+  </GatCode>
+  <GatCode Code="10">
+    <GatName>वाई</GatName>
+  </GatCode>
+  <GatCode Code="11">
+    <GatName>जावली</GatName>
+  </GatCode>
+  <GatCode Code="12">
+    <GatName>लोणंद</GatName>
+  </GatCode>
+  <GatCode Code="13">
+    <GatName>भोर</GatName>
+  </GatCode>
+  <GatCode Code="14">
+    <GatName>पुरंदर</GatName>
+  </GatCode>
+  <GatCode Code="15">
+    <GatName>बारामती</GatName>
+  </GatCode>
+  <GatCode Code="16">
+    <GatName>इंदापूर</GatName>
+  </GatCode>
+  <GatCode Code="17">
+    <GatName>नातेपुते</GatName>
+  </GatCode>
+  <GatCode Code="18">
+    <GatName>गेट केन</GatName>
+  </GatCode>
+  <GatCode Code="19">
+    <GatName>माळशिरस (गेटकेन)</GatName>
+  </GatCode>
+  <GatCode Code="20">
+    <GatName>कराड</GatName>
+  </GatCode>
+</GatDetails>
