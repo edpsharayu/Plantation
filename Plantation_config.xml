@@ -3,10 +3,10 @@
   <UserCode Code="3530040713109451">
     <UserName>---</UserName>
     <Range>1</Range>
-    <FarmerList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/FarmerList.xml</FarmerList>
-    <GatList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/GatList.xml</GatList>
-    <VillageList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/VillageList.xml</VillageList>
-    <VerificationData>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/3530040713109451_VD.xml</VerificationData>
+    <FarmerList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/FarmerList.xml</FarmerList>
+    <GatList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/GatList.xml</GatList>
+    <VillageList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/VillageList.xml</VillageList>
+    <VerificationData>https://raw.githubusercontent.com/edpsharayu/Plantation/master/3530040713109451_VD.xml</VerificationData>
     <UCode>129</UCode>
   </UserCode>
 </User>
