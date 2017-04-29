@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <User>
-  <UserCode Code="35300407131094501">
+  <UserCode Code="353004071310945/01">
     <UserName>---</UserName>
     <Range>1</Range>
     <FarmerList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/FarmerList.xml</FarmerList>
     <GatList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/GatList.xml</GatList>
     <VillageList>https://raw.githubusercontent.com/edpsharayu/Plantation/master/VillageList.xml</VillageList>
-    <VerificationData>https://raw.githubusercontent.com/edpsharayu/Plantation/master/35300407131094501_VD.xml</VerificationData>
+    <VerificationData>https://raw.githubusercontent.com/edpsharayu/Plantation/master/353004071310945/01_VD.xml</VerificationData>
     <UCode>129</UCode>
   </UserCode>
 </User>
