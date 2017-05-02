@@ -30,4 +30,9 @@
     <password>37</password>
     <level>1</level>
   </loginid>
+  <loginid id="101">
+    <username>-</username>
+    <password>101</password>
+    <level>1</level>
+  </loginid>
 </users>
