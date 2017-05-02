@@ -1,11 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Bank>
-    <BankCode Code="0">
-    <BankName>-</BankName>
-    <BranchCode Code="0">
-      <BranchName>-</BranchName>
-    </BranchCode>
-      </BankCode>
+<Bank>   
   <BankCode Code="1">
     <BankName>पुणे डी.सी.सी.</BankName>
     <BranchCode Code="72">
