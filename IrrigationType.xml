@@ -1,40 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <IrrigationType>
-  <IrrigationCode Code="12">
-    <TypeName />
-  </IrrigationCode>
-  <IrrigationCode Code="5">
-    <TypeName>सझषओ?
-</TypeName>
-  </IrrigationCode>
-  <IrrigationCode Code="6">
-    <TypeName />
-  </IrrigationCode>
-  <IrrigationCode Code="11">
-    <TypeName />
-  </IrrigationCode>
-  <IrrigationCode Code="8">
-    <TypeName />
+  <IrrigationCode Code="3">
+    <TypeName>विहीर</TypeName>
   </IrrigationCode>
   <IrrigationCode Code="1">
-    <TypeName>ऍषअ?ृ</TypeName>
+    <TypeName>कॅनल</TypeName>
   </IrrigationCode>
   <IrrigationCode Code="2">
-    <TypeName>सठषसन?च?</TypeName>
-  </IrrigationCode>
-  <IrrigationCode Code="3">
-    <TypeName>ऑषष।च?</TypeName>
+    <TypeName>लिफ्ट</TypeName>
   </IrrigationCode>
   <IrrigationCode Code="4">
-    <TypeName>ि१९ऍषष१झष</TypeName>
-  </IrrigationCode>
-  <IrrigationCode Code="7">
-    <TypeName />
-  </IrrigationCode>
-  <IrrigationCode Code="9">
-    <TypeName />
-  </IrrigationCode>
-  <IrrigationCode Code="10">
-    <TypeName />
+    <TypeName>ठिबक सिंचन</TypeName>
   </IrrigationCode>
 </IrrigationType>

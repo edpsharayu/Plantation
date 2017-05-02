@@ -1,28 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
-  <loginid id="11">
-    <username>-</username>
-    <password>11</password>
-    <level>1</level>
-  </loginid>
   <loginid id="129">
     <username>-</username>
     <password>129</password>
     <level>1</level>
-  </loginid>
-  <loginid id="20">
-    <username>-</username>
-    <password>20</password>
-    <level>1</level>
-  </loginid>
-  <loginid id="96">
-    <username>-</username>
-    <password>96</password>
-    <level>1</level>
-  </loginid>
-  <loginid id="11">
-    <username>-</username>
-    <password>17</password>
-    <level>2</level>
   </loginid>
 </users>
