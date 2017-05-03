@@ -25,14 +25,9 @@
     <password>17</password>
     <level>1</level>
   </loginid>
-  <loginid id="37">
-    <username>-</username>
-    <password>37</password>
-    <level>1</level>
-  </loginid>
   <loginid id="96">
     <username>-</username>
-    <password>96</password>
+    <password>37</password>
     <level>1</level>
   </loginid>
 </users>
