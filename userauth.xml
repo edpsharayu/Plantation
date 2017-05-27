@@ -55,14 +55,14 @@
     <password>3326</password>
     <level>3</level>
   </loginid>
-  <loginid id="20">
-    <username>-</username>
-    <password>20</password>
-    <level>1</level>
-  </loginid>
   <loginid id="3327">
     <username>-</username>
     <password>3327</password>
     <level>3</level>
+  </loginid>
+  <loginid id="20">
+    <username>-</username>
+    <password>20</password>
+    <level>1</level>
   </loginid>
 </users>
