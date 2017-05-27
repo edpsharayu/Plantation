@@ -30,6 +30,11 @@
     <password>17</password>
     <level>1</level>
   </loginid>
+  <loginid id="291">
+    <username>-</username>
+    <password>291</password>
+    <level>3</level>
+  </loginid>
   <loginid id="20">
     <username>-</username>
     <password>20</password>
