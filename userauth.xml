@@ -110,6 +110,11 @@
     <password>162</password>
     <level>1</level>
   </loginid>
+  <loginid id="2539">
+    <username>-</username>
+    <password>2539</password>
+    <level>1</level>
+  </loginid>
   <loginid id="20">
     <username>-</username>
     <password>20</password>
