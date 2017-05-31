@@ -40,11 +40,6 @@
     <password>167</password>
     <level>3</level>
   </loginid>
-  <loginid id="166">
-    <username>-</username>
-    <password>166</password>
-    <level>1</level>
-  </loginid>
   <loginid id="129">
     <username>-</username>
     <password>129</password>
@@ -78,6 +73,11 @@
   <loginid id="3231">
     <username>-</username>
     <password>3231</password>
+    <level>1</level>
+  </loginid>
+  <loginid id="166">
+    <username>-</username>
+    <password>166</password>
     <level>1</level>
   </loginid>
   <loginid id="3235">
