@@ -3,32 +3,37 @@
   <loginid id="203">
     <username>-</username>
     <password>203</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3329">
     <username>-</username>
     <password>3329</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="14">
+    <username>-</username>
+    <password>D</password>
     <level>1</level>
   </loginid>
   <loginid id="11">
     <username>-</username>
     <password>11</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="37">
     <username>-</username>
     <password>37</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="44">
     <username>-</username>
     <password>44</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
   <loginid id="169">
     <username>-</username>
     <password>169</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="163">
     <username>-</username>
@@ -43,17 +48,12 @@
   <loginid id="3229">
     <username>-</username>
     <password>3229</password>
-    <level>1</level>
-  </loginid>
-  <loginid id="129">
-    <username>-</username>
-    <password>129</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="55">
     <username>-</username>
     <password>555</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3247">
     <username>-</username>
@@ -63,27 +63,27 @@
   <loginid id="120">
     <username>-</username>
     <password>120</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="32">
     <username>-</username>
     <password>32</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3248">
     <username>-</username>
     <password>3248</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3231">
     <username>-</username>
     <password>3231</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="166">
     <username>-</username>
     <password>166</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3235">
     <username>-</username>
@@ -108,51 +108,51 @@
   <loginid id="3380">
     <username>-</username>
     <password>3380</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="158">
     <username>-</username>
     <password>158</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="162">
     <username>-</username>
     <password>162</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="2539">
     <username>-</username>
     <password>2539</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
-  <loginid id="15">
+  <loginid id="14">
     <username>-</username>
-    <password>15</password>
+    <password>D</password>
     <level>1</level>
   </loginid>
   <loginid id="20">
     <username>-</username>
     <password>20</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="1149">
     <username>-</username>
     <password>1149</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="118">
     <username>-</username>
     <password>118</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="3392">
     <username>-</username>
     <password>3392</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="168">
     <username>-</username>
     <password>168</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
 </users>
