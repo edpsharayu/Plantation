@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaneVariety>
+  <VarietyCode Code="1">
+    <VarietyName>671</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="2">
+    <VarietyName>86032</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="3">
+    <VarietyName>94012</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="4">
+    <VarietyName>434</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="5">
+    <VarietyName>265</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="6">
+    <VarietyName>10001</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="7">
+    <VarietyName>9805</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="8">
+    <VarietyName>Other</VarietyName>
+  </VarietyCode>
+</CaneVariety>
