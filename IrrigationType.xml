@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <IrrigationType>
-    <IrrigationCode Code="1">
-    <TypeName>नदी</TypeName>
+<IrrigationCode Code="4">
+    <TypeName>कॅनॉल</TypeName>
+  </IrrigationCode>
+<IrrigationCode Code="5">
+    <TypeName>लिफ्ट
+</TypeName>
   </IrrigationCode>
   <IrrigationCode Code="2">
     <TypeName>विहिर</TypeName>
@@ -9,10 +13,7 @@
   <IrrigationCode Code="3">
     <TypeName>बोअर</TypeName>
   </IrrigationCode>
-  <IrrigationCode Code="4">
-    <TypeName>कॅनॉल</TypeName>
-<IrrigationCode Code="5">
-    <TypeName>लिफ्ट
-</TypeName>
+    <IrrigationCode Code="1">
+    <TypeName>नदी</TypeName>  
   </IrrigationCode>
   </IrrigationType>
