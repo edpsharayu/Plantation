@@ -281,4 +281,9 @@
     <password>171</password>
     <level>1</level>
   </loginid>
+  <loginid id="300">
+    <username>-</username>
+    <password>300</password>
+    <level>3</level>
+  </loginid>
 </users>
