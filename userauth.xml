@@ -211,4 +211,9 @@
     <password>3309</password>
     <level>1</level>
   </loginid>
+  <loginid id="3249">
+    <username>-</username>
+    <password>3249</password>
+    <level>1</level>
+  </loginid>
 </users>
