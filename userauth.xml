@@ -276,6 +276,11 @@
     <password>3309</password>
     <level>1</level>
   </loginid>
+  <loginid id="4001">
+    <username>-</username>
+    <password>4001</password>
+    <level>3</level>
+  </loginid>
   <loginid id="171">
     <username>-</username>
     <password>171</password>
