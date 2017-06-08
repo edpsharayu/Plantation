@@ -316,4 +316,14 @@
     <password>300</password>
     <level>3</level>
   </loginid>
+  <loginid id="3314">
+    <username>-</username>
+    <password>3314</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="4009">
+    <username>-</username>
+    <password>4009</password>
+    <level>3</level>
+  </loginid>
 </users>
