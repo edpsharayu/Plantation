@@ -55,6 +55,11 @@
     <password>3316</password>
     <level>3</level>
   </loginid>
+  <loginid id="160">
+    <username>-</username>
+    <password>160</password>
+    <level>3</level>
+  </loginid>
   <loginid id="11">
     <username>-</username>
     <password>11</password>
@@ -98,11 +103,6 @@
   <loginid id="164">
     <username>-</username>
     <password>164</password>
-    <level>1</level>
-  </loginid>
-  <loginid id="161">
-    <username>-</username>
-    <password>161</password>
     <level>1</level>
   </loginid>
   <loginid id="3301">
@@ -218,17 +218,6 @@
   <loginid id="2539">
     <username>-</username>
     <password>2539</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="160">
-    <username>-</username>
-    <password>160</password>
-    <level>3</level>
-    <username>-</username>
-    <password>160</password>
-    <level>3</level>
-    <username>-</username>
-    <password>160</password>
     <level>3</level>
   </loginid>
   <loginid id="3249">
