@@ -593,6 +593,12 @@
     <BranchCode Code="297">
       <BranchName>सातारा डी.सी.सी.शाखा - विसापुर</BranchName>
     </BranchCode>
+    <BranchCode Code="298">
+      <BranchName>सोलापूर डी.सी.सी.शाखा - वडुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="299">
+      <BranchName>सोलापूर डी.सी.सी.शाखा - मायणी</BranchName>
+    </BranchCode>
     <BranchCode Code="300">
       <BranchName>सातारा डी.सी.सी.शाखा - जरंडेश्वर स.सा.चिमणगावं</BranchName>
     </BranchCode>
@@ -850,12 +856,6 @@
     </BranchCode>
     <BranchCode Code="295">
       <BranchName>सोलापूर डी.सी.सी. शाखा - नातेपुते </BranchName>
-    </BranchCode>
-    <BranchCode Code="298">
-      <BranchName>सोलापूर डी.सी.सी.शाखा - वडुज</BranchName>
-    </BranchCode>
-    <BranchCode Code="299">
-      <BranchName>सोलापूर डी.सी.सी.शाखा - मायणी</BranchName>
     </BranchCode>
   </BankCode>
   <BankCode Code="11">

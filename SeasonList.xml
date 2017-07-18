@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SeasonList>
-    <Season Code='2017-2018'/>
-</SeasonList>
-<SeasonList>
-    <Season Code='2018-2019'/>
+    <Season Code= "1">
+<SeasonName>2017-2018</SeasonName>
+    <Season Code= "2">
+<SeasonName>2018-2019</SeasonName>
+</Season Code>
 </SeasonList>
