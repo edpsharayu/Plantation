@@ -14,7 +14,7 @@
       <VillageName>घाडगेवाडी (कापशी)</VillageName>
     </VillageCode>
     <VillageCode Code="5">
-      <VillageName>को-हाळे</VillageName>
+      <VillageName>कोऱ्हाळे</VillageName>
     </VillageCode>
     <VillageCode Code="6">
       <VillageName>आदर्की (ख़ु.)</VillageName>
@@ -521,7 +521,7 @@
       <VillageName>धारपुडी</VillageName>
     </VillageCode>
     <VillageCode Code="135">
-      <VillageName>दरूज</VillageName>
+      <VillageName>दरुज</VillageName>
     </VillageCode>
     <VillageCode Code="136">
       <VillageName>दरजाई</VillageName>
@@ -608,7 +608,7 @@
       <VillageName>नागनाथवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="164">
-      <VillageName>फ़डतरवाडी (बुध)</VillageName>
+      <VillageName>फडतरवाडी (बुध)</VillageName>
     </VillageCode>
     <VillageCode Code="165">
       <VillageName>बुध </VillageName>
@@ -695,7 +695,7 @@
       <VillageName>सातेवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="814">
-      <VillageName>वडूज</VillageName>
+      <VillageName>वडुज</VillageName>
     </VillageCode>
     <VillageCode Code="815">
       <VillageName>मांडवे</VillageName>
@@ -729,7 +729,7 @@
     </VillageCode>
   </GatCode>
   <GatCode Code="8">
-      <VillageCode Code="217">
+    <VillageCode Code="217">
       <VillageName>चिमणगांव</VillageName>
     </VillageCode>
     <VillageCode Code="218">
@@ -1197,7 +1197,7 @@
       <VillageName>पिंपरे बु||</VillageName>
     </VillageCode>
     <VillageCode Code="343">
-      <VillageName>बाळूपाट्लाची वाडी</VillageName>
+      <VillageName>बाळुपाटलाची वाडी</VillageName>
     </VillageCode>
     <VillageCode Code="344">
       <VillageName>पाडेगांव (लोणंद)</VillageName>
@@ -1317,7 +1317,7 @@
       <VillageName>भोळी</VillageName>
     </VillageCode>
     <VillageCode Code="493">
-      <VillageName>मरीआईची वाडी</VillageName>
+      <VillageName>मरीआईचीवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="586">
       <VillageName>पारगाव</VillageName>
@@ -1351,6 +1351,12 @@
     </VillageCode>
     <VillageCode Code="877">
       <VillageName>मिरजे</VillageName>
+    </VillageCode>
+    <VillageCode Code="897">
+      <VillageName>शिंदेवाडी</VillageName>
+    </VillageCode>
+    <VillageCode Code="904">
+      <VillageName>येळेवाडी</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="13">
@@ -1521,7 +1527,7 @@
       <VillageName>कांबळेश्‍वर</VillageName>
     </VillageCode>
     <VillageCode Code="403">
-      <VillageName>को-हाळे</VillageName>
+      <VillageName>कोऱ्हाळे (बु||)</VillageName>
     </VillageCode>
     <VillageCode Code="404">
       <VillageName>मुरूम</VillageName>
@@ -1618,6 +1624,27 @@
     </VillageCode>
     <VillageCode Code="894">
       <VillageName>जळोची</VillageName>
+    </VillageCode>
+    <VillageCode Code="896">
+      <VillageName>कोऱ्हाळे (खु.||)</VillageName>
+    </VillageCode>
+    <VillageCode Code="898">
+      <VillageName>जायपत्रेवाडी</VillageName>
+    </VillageCode>
+    <VillageCode Code="899">
+      <VillageName>दरेकरवाडा (वडगाव निं)</VillageName>
+    </VillageCode>
+    <VillageCode Code="900">
+      <VillageName>वाणेवाडी</VillageName>
+    </VillageCode>
+    <VillageCode Code="901">
+      <VillageName>मळशी (सोमेश्वरनगर)</VillageName>
+    </VillageCode>
+    <VillageCode Code="902">
+      <VillageName>वाघळवाडी </VillageName>
+    </VillageCode>
+    <VillageCode Code="903">
+      <VillageName>खामगळवाडी</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="16">
@@ -1771,7 +1798,7 @@
       <VillageName>पळसमंडळ</VillageName>
     </VillageCode>
     <VillageCode Code="428">
-      <VillageName>डोेंबाळवाडी (नातेपुते)</VillageName>
+      <VillageName>डोंबाळवाडी (नातेपुते)</VillageName>
     </VillageCode>
     <VillageCode Code="439">
       <VillageName>लोंढे-मोहितेवाडी</VillageName>
@@ -1781,6 +1808,9 @@
     </VillageCode>
     <VillageCode Code="469">
       <VillageName>देशमुखवाडी (पवारवाडी मार्गे)</VillageName>
+    </VillageCode>
+    <VillageCode Code="895">
+      <VillageName>दहिगाव(नातेपुते)</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="19">
@@ -2168,7 +2198,7 @@
       <VillageName>खेड (नांदगिरी)</VillageName>
     </VillageCode>
     <VillageCode Code="230">
-      <VillageName>आंबवडे (सं.कोरेगांव)</VillageName>
+      <VillageName>अंबवडे (सं.कोरेगांव)</VillageName>
     </VillageCode>
     <VillageCode Code="234">
       <VillageName>जळगांव</VillageName>
@@ -2227,7 +2257,7 @@
       <VillageName>बिचुकले</VillageName>
     </VillageCode>
     <VillageCode Code="176">
-      <VillageName>फ़डतरवाडी (विखळे)</VillageName>
+      <VillageName>फडतरवाडी (विखळे)</VillageName>
     </VillageCode>
     <VillageCode Code="177">
       <VillageName>गुजरवाडी</VillageName>
