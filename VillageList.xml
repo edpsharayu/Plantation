@@ -729,6 +729,9 @@
     </VillageCode>
   </GatCode>
   <GatCode Code="8">
+      <VillageCode Code="217">
+      <VillageName>चिमणगांव</VillageName>
+    </VillageCode>
     <VillageCode Code="218">
       <VillageName>वडाचीवाडी</VillageName>
     </VillageCode>
@@ -862,7 +865,7 @@
       <VillageName>आझादपूर</VillageName>
     </VillageCode>
     <VillageCode Code="857">
-      <VillageName>अननलवाडी</VillageName>
+      <VillageName>अनभुलवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="858">
       <VillageName>भाटमवाडी</VillageName>
@@ -2160,9 +2163,6 @@
     </VillageCode>
     <VillageCode Code="216">
       <VillageName>हसेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="217">
-      <VillageName>चिमणगांव</VillageName>
     </VillageCode>
     <VillageCode Code="229">
       <VillageName>खेड (नांदगिरी)</VillageName>
